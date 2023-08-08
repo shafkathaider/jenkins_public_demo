@@ -29,9 +29,16 @@ namespace JenkinsWebApplicationDemo.Controllers
             })
             .ToArray();
         }
+
         [HttpGet]
         [Route("testurl")]
         public IActionResult GetTestUrl()
+        {
+            return Ok();
+        }
+        [HttpGet]
+        [Route("testurl1")]
+        public IActionResult GetTestUrl1()
         {
             return Ok();
         }
