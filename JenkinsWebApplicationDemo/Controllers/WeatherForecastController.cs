@@ -30,7 +30,7 @@ namespace JenkinsWebApplicationDemo.Controllers
             .ToArray();
         }
         [HttpGet]
-        [Route("test")]
+        [Route("testurl")]
         public IActionResult GetTestUrl()
         {
             return Ok();
