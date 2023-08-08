@@ -16,6 +16,8 @@ D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\ne
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\JenkinsWebApplicationDemo.csproj.CoreCompileInputs.cache
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\JenkinsWebApplicationDemo.MvcApplicationPartsAssemblyInfo.cs
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\JenkinsWebApplicationDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\JenkinsWebApplicationDemo.RazorAssemblyInfo.cache
+D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\JenkinsWebApplicationDemo.RazorAssemblyInfo.cs
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\staticwebassets\msbuild.JenkinsWebApplicationDemo.Microsoft.AspNetCore.StaticWebAssets.props
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.JenkinsWebApplicationDemo.props
 D:\CodePractice\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JenkinsWebApplicationDemo.props
